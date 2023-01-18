@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on any web based projects
+- 📫 Email me at christophermowrey@gmail.com
 <!--
 **christophermowrey/christophermowrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
