@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there, my name is Christopher Mowrey 
 
 - 👯 I’m looking to collaborate on any web based projects
 - ⚡ I'm competent in technologies including: javascript, node, express, react, SQL, MongoDB, and more!
